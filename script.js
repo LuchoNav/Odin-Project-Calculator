@@ -6,4 +6,14 @@ const subtract =  function(a, b) {
     return a - b
 }
 
-console.log(subtract(5, 10))
+
+const multiply = function(a, b) {
+    return a * b
+}
+
+
+const divide = function (a, b){
+    return a / b
+}
+
+console.log(multiply(2, 2))
