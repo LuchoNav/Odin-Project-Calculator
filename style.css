@@ -1,5 +1,10 @@
-﻿body {
-    background-color: rgb(59, 122, 101);
+﻿
+/* image https://unsplash.com/es/fotos/un-fondo-abstracto-rosa-y-azul-con-cuadrados-o8JeBZGqfSc */
+body {
+    background: url(images/steve-a-johnson-o8JeBZGqfSc-unsplash.jpg);
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -54,5 +59,6 @@
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     height: 100%;
+    cursor: pointer;
 }
 
