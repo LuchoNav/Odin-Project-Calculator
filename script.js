@@ -39,7 +39,6 @@ let operate = function (operator, number1, number2) {
 };
 
 
-console.log(operate("x", 5, 0))
 
 
 const button = document.querySelector(".buttons")
