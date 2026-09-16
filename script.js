@@ -1,4 +1,8 @@
-﻿const add = function(a, b) {
+﻿// The design needs improvement—perhaps the background and buttons. The code could likely be improved, too. But enjoy it.
+
+
+
+const add = function(a, b) {
     return a + b
 }
 
